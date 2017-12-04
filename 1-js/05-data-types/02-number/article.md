@@ -227,7 +227,7 @@ That's why `0.1 + 0.2` is not exactly `0.3`.
 ```smart header="Not only JavaScript"
 The same issue exists in many other programming languages.
 
-PHP, Java, C, Perl, Ruby give exactly the same result, because they are based on the same numeric format. 
+PHP, Java, C, Perl5, Ruby give exactly the same result, because they are based on the same numeric format. 
 ```
 
 Can we work around the problem? Sure, there're a number of ways:
